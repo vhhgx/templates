@@ -1,0 +1,23 @@
+/* 方正兰亭黑 */
+@font-face {
+  font-family: 'fzlth';
+  src: url('../fonts/fzlth.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* 华康金刚黑 */
+@font-face {
+  font-family: 'hkjgh';
+  src: url('../fonts/hkjgh.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Din */
+@font-face {
+  font-family: 'din';
+  src: url('../fonts/din.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
