@@ -2,6 +2,8 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+其中.gitignore的env相关，需要克隆后手动解开注释
+
 ## Setup
 
 Make sure to install the dependencies:
